@@ -1,7 +1,5 @@
 # theMatch
 The Match game
-# theMatch
-The Match game
 
 ### Contributers
 
